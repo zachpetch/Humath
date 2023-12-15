@@ -1,5 +1,5 @@
 /*
- * This is stolen from noboilerplate on youtube, but seems useful for these purposes.
+ * I got this from noboilerplate on youtube. It seems useful for these purposes.
  */
 #[derive (Debug)]
 enum MathError {
